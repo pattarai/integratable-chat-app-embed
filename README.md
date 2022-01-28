@@ -1,13 +1,13 @@
-# {project title} ✨
+# Integratable Chat App Embed ✨
 
 ### Description
-{mini project description goes here...}
+A chat app embed to integrate in any existing app.
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
 ### Contributers
-<a href="https://github.com/pattarai/mini-project-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pattarai/mini-project-template" />
+<a href="https://github.com/pattarai/integratable-chat-app-embed/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pattarai/integratable-chat-app-embed" />
 </a>
 
 
