@@ -2,9 +2,9 @@
 
 All inputs are welcome!
 
-## Please make sure you are assigned to an [Issue](https://github.com/pattarai/discord-moderator-bot/issues) before submitting a pull request
+## Please make sure you are assigned to an [Issue](https://github.com/pattarai/integratable-chat-app-embed/issues) before submitting a pull request
 
-Go to the [issue](https://github.com/pattarai/discord-moderator-bot/issues) page and either
+Go to the [issue](https://github.com/pattarai/integratable-chat-app-embed/issues) page and either
 - Request to be assigned to an existing issue
 - Create your own issue and use one of the templates provided. Wait for approval and to be assigned the issue before submitting a pull request
 
@@ -27,7 +27,7 @@ Steps to make your contribution:
 
 ### 3. Add this repo as the remote upstream and keep it synced by pulling from upstream
 ```
-git remote add upstream https://github.com/pattarai/discord-moderator-bot.git
+git remote add upstream https://github.com/pattarai/integratable-chat-app-embed.git
 
 git pull upstream main
 ```
